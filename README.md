@@ -143,9 +143,9 @@ A personal portfolio website to showcase projects, skills, experience, and conta
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=michaels6355&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7A5CFF&icon_color=00D9FF&text_color=FFFFFF" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=KELSZ22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7A5CFF&icon_color=00D9FF&text_color=FFFFFF" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=michaels6355&theme=tokyonight&hide_border=true&background=0D1117&ring=7A5CFF&fire=00D9FF&currStreakLabel=FFFFFF" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KELSZ22&theme=tokyonight&hide_border=true&background=0D1117&ring=7A5CFF&fire=00D9FF&currStreakLabel=FFFFFF" />
 
 </div>
 
@@ -153,7 +153,7 @@ A personal portfolio website to showcase projects, skills, experience, and conta
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaels6355&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7A5CFF&text_color=FFFFFF" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KELSZ22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7A5CFF&text_color=FFFFFF" />
 
 </div>
 
@@ -163,7 +163,7 @@ A personal portfolio website to showcase projects, skills, experience, and conta
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=michaels6355&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=KELSZ22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 
 </div>
 
@@ -173,7 +173,7 @@ A personal portfolio website to showcase projects, skills, experience, and conta
 
 <div align="center">
 
-<a href="https://github.com/michaels6355">
+<a href="https://github.com/KELSZ22">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -181,7 +181,7 @@ A personal portfolio website to showcase projects, skills, experience, and conta
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:michaels6355@gmail.com">
+<a href="mailto:KELSZ22@gmail.com">
   <img src="https://img.shields.io/badge/Email-7A5CFF?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
