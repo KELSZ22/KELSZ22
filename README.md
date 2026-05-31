@@ -1,4 +1,3 @@
-````md
 <!-- PROFILE HEADER -->
 <div align="center">
 
@@ -201,4 +200,3 @@ A personal portfolio website to showcase projects, skills, experience, and conta
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A5CFF,100:00D9FF&height=120&section=footer" />
 
 </div>
-```
