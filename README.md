@@ -1,141 +1,97 @@
-<!-- PROFILE HEADER -->
 <div align="center">
 
-# Hi, I'm Mykel 👋
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Hi,%20I'm%20Mykel%20👋&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Web%20%26%20Mobile%20Developer&descAlignY=58&descSize=20" />
 
-### Web Developer • Mobile Developer • React • React Native • Laravel
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/badge/📍%20Philippines-FF6B6B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/💼%20Available%20for%20Work-6C63FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀%20Always%20Learning-00D4AA?style=for-the-badge&logoColor=white" />
+</p>
 
-I build modern, responsive, and user-friendly web and mobile applications.
+<p><i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i></p>
 
-<br />
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=7A5CFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Mobile+Developer;React+%7C+React+Native+%7C+Laravel;Always+Learning+%26+Improving" alt="Typing SVG" />
+<!-- Stats Row -->
+<table>
+  <tr>
+    <td align="center"><b>2+</b><br/><sub>Years Coding</sub></td>
+    <td align="center"><b>20+</b><br/><sub>Projects</sub></td>
+    <td align="center"><b>500+</b><br/><sub>Commits</sub></td>
+    <td align="center"><b>Top 10%</b><br/><sub>GitHub Ranking</sub></td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 Tech Stack
 
-<table>
-<tr>
-<td width="60%">
+**Frontend**
 
-- 💻 I build **web and mobile applications**
-- ⚛️ I work with **React, React Native, Vue.js, Laravel, and PHP**
-- 🎨 I enjoy creating clean and responsive UI
-- 📱 Focused on mobile-first and user-friendly design
-- 🌱 Currently improving my **Data Structures and Algorithms**
-- 🚀 Goal: Build scalable and professional applications
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-</td>
-<td width="40%">
+**Mobile**
 
-```ts
-const developer = {
-  name: "Mykel",
-  role: "Web & Mobile Developer",
-  location: "Philippines 🇵🇭",
-  stack: ["React", "React Native", "Laravel"],
-  mindset: "Keep building. Keep learning.",
-};
-````
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-</td>
-</tr>
-</table>
+**Backend**
 
----
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🛠️ Tech Stack
+**Tools & Others**
 
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,vite" />
-</p>
-
-### Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,androidstudio" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,bun,linux" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
+## 🔥 Featured Projects
 
 ### 📦 Inventory & Assets Management System
+> A web and mobile-friendly system for managing assets, inventory, transfers and item allocation.
 
-A web and mobile-friendly system for managing assets, inventory, transfers, item allocation, and real-time updates.
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-**Tech Used**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-</td>
-<td width="50%">
+---
 
 ### 🛒 E-commerce Customizer
+> Shopify-based product customization with dynamic backgrounds, gradients and image controls.
 
-A Shopify-based product customization feature with dynamic backgrounds, gradients, image controls, and responsive UI.
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
 
-**Tech Used**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge\&logo=shopify\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+---
 
 ### 📱 Mobile Inventory App
+> React Native mobile app for scanning QR codes, tracking assets and real-time inventory updates.
 
-A React Native mobile app for scanning QR codes, tracking assets, and managing inventory updates.
-
-**Tech Used**
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
-
-</td>
-<td width="50%">
-
-### 🌐 Portfolio Website
-
-A personal portfolio website to showcase projects, skills, experience, and contact information.
-
-**Tech Used**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-
-</td>
-</tr>
-</table>
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
 ---
 
@@ -143,27 +99,10 @@ A personal portfolio website to showcase projects, skills, experience, and conta
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=KELSZ22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7A5CFF&icon_color=00D9FF&text_color=FFFFFF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=michaels6355&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaels6355&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KELSZ22&theme=tokyonight&hide_border=true&background=0D1117&ring=7A5CFF&fire=00D9FF&currStreakLabel=FFFFFF" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KELSZ22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7A5CFF&text_color=FFFFFF" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KELSZ22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=michaels6355&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -173,30 +112,20 @@ A personal portfolio website to showcase projects, skills, experience, and conta
 
 <div align="center">
 
-<a href="https://github.com/KELSZ22">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:KELSZ22@gmail.com">
-  <img src="https://img.shields.io/badge/Email-7A5CFF?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://YOUR_PORTFOLIO_WEBSITE.com">
-  <img src="https://img.shields.io/badge/Portfolio-FF4D8D?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/michaels6355)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO)
 
 </div>
 
----
-
 <div align="center">
 
-### ✨ Keep building. Keep learning. Keep improving. ✨
+```js
+// Keep building. Keep learning. Keep improving.
+console.log("Thank you for visiting!");
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A5CFF,100:00D9FF&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" />
 
 </div>
