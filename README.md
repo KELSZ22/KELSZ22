@@ -1,5 +1,3 @@
-<!-- Replace every YOUR_GITHUB_USERNAME below with your GitHub username (8 places) -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:121018,50:5B21B6,100:DB2777&text=Michael%20Z.%20Sabino&fontColor=F5F3FF&fontSize=52&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Shopify%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
@@ -13,7 +11,7 @@
 <a href="https://kelsz.dev"><img src="https://img.shields.io/badge/kelsz.dev-121018?style=for-the-badge&logo=googlechrome&logoColor=C4B5FD&labelColor=121018&color=5B21B6" /></a>
 <a href="mailto:michaels6355@gmail.com"><img src="https://img.shields.io/badge/Email_Me-121018?style=for-the-badge&logo=gmail&logoColor=F9A8D4&labelColor=121018&color=DB2777" /></a>
 <img src="https://img.shields.io/badge/Manila,_PH-121018?style=for-the-badge&logo=googlemaps&logoColor=C4B5FD&labelColor=121018&color=7C3AED" />
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=7C3AED&label=VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=KELSZ22&style=for-the-badge&color=7C3AED&label=VIEWS" />
 
 </div>
 
@@ -47,7 +45,7 @@ const michael = {
 
 **⚡ Right now**
 
-🛍️ Shopify Developer
+🛍️ Shopify Developer @ **Launch to Profit Media**
 <sub>Custom themes · storefronts · app integrations · speed optimization</sub>
 
 💼 Freelance Full Stack Developer
@@ -217,9 +215,7 @@ Community application for assistance distribution and local events.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&border_radius=12&background=121018&ring=7C3AED&fire=DB2777&currStreakNum=F5F3FF&sideNums=F5F3FF&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8B85A0&stroke=2A2433" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=121018&color=C4B5FD&line=DB2777&point=F5F3FF&area=true&area_color=7C3AED&hide_border=true&radius=12" />
+<img src="https://streak-stats.demolab.com?user=KELSZ22&hide_border=true&border_radius=12&background=121018&ring=7C3AED&fire=DB2777&currStreakNum=F5F3FF&sideNums=F5F3FF&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8B85A0&stroke=2A2433" />
 
 </div>
 
