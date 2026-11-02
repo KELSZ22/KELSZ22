@@ -217,9 +217,6 @@ Community application for assistance distribution and local events.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&border_radius=12&bg_color=121018&title_color=C4B5FD&text_color=E9E6F2&icon_color=DB2777&ring_color=7C3AED" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=121018&title_color=C4B5FD&text_color=E9E6F2" />
-
 <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&border_radius=12&background=121018&ring=7C3AED&fire=DB2777&currStreakNum=F5F3FF&sideNums=F5F3FF&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8B85A0&stroke=2A2433" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=121018&color=C4B5FD&line=DB2777&point=F5F3FF&area=true&area_color=7C3AED&hide_border=true&radius=12" />
