@@ -45,7 +45,7 @@ const michael = {
 
 **⚡ Right now**
 
-🛍️ Shopify Developer @ **Launch to Profit Media**
+🛍️ Shopify Developer
 <sub>Custom themes · storefronts · app integrations · speed optimization</sub>
 
 💼 Freelance Full Stack Developer
